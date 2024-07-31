@@ -1,9 +1,9 @@
 # Fake Meme Coin DApp
 
-![Solana](https://upload.wikimedia.org/wikipedia/en/b/b9/Solana_logo.png)
-![Phantom Wallet](https://pbs.twimg.com/profile_images/1390193130977949704/1A2K_7D4_400x400.jpg)
-![jQuery](https://upload.wikimedia.org/wikipedia/en/thumb/9/9e/JQuery_logo.svg/1920px-JQuery_logo.svg.png)
-![HTML5](https://upload.wikimedia.org/wikipedia/commons/3/38/HTML5_Badge.svg)
+<p align="center">
+    <img src="https://upload.wikimedia.org/wikipedia/en/b/b9/Solana_logo.png" alt="Solana" height="100">
+</p>
+
 
 Welcome to the Fake Meme Coin DApp! This project is designed to educate users on how to securely interact with Phantom Wallet and Solana blockchain, while avoiding common scams such as wallet drainers.
 
